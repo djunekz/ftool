@@ -1,0 +1,3 @@
+Package=Encrypt
+Description=ELF Encrypt file with end build deb
+Root=No Root
