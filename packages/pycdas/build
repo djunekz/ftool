@@ -1,0 +1,3 @@
+Package=pycdas
+Description=C++ python bytecode disassembler and decompiler
+Root=No Root

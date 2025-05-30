@@ -1,0 +1,42 @@
+## INDONESIA TRANSLSTE
+Cara upload ke github publik
+
+- Buat folder, caranya:
+  - Klik packages
+  - Create new file
+  - Di kolom atas ketik nama folder file dan di akhiri tanda /, misalnya: Contoh/
+  - Setelah itu di kolom atas lagi, tulis build
+
+- Tulis didalam build:
+Package=Namafile
+Description=Deskripsi tool
+Root=No Root atau Root
+- Setelah sudah, klik commit
+- Apabila ada tulisan Fork, Pull Request. silahkan klik saja
+- Tunggu hingga commit disetujui
+- Upload file deb kedalam folder anda tadi, lalu klik commit
+
+apabila ada yang perlu ditanyakan, silahkan kirimkan email ke:
+gab288.gab288@passinbox.com
+
+
+## ENGLISH TRANSLATE
+How to upload to public github 
+
+- Create a folder, here's how:
+  - Click packages
+  - Create new file
+  - In the top column, type the name of the file folder and end it with a / sign, for example: Example/
+  - After that in the top column again, write build
+
+- Write in the build:
+Package=Filename
+Description=Tool description
+Root=No Root or Root
+- After that, click commit
+- If there is a Fork, Pull Request text. please just click it
+- Wait until the commit is approved
+- Upload the deb file into your folder, then click commit
+
+if you have any questions, please send an email to:
+gab288.gab288@passinbox.com

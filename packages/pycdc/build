@@ -1,0 +1,3 @@
+Package=pycdc
+Description=C++ python bytecode disassembler and decompiler
+Root=No Root
