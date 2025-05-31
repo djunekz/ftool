@@ -1,0 +1,3 @@
+Package=UserFinder
+Description=OSINT tool for finding profiles by username
+Root=No Root
