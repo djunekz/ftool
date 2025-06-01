@@ -1,0 +1,3 @@
+Package=Slowloris
+Description=Low bandwidth DoS tool. Slowloris rewrite in Python
+Root=No Root
