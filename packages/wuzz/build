@@ -1,0 +1,3 @@
+Package=Wuzz
+Description=Interactive command line tool for HTTP inspection
+Root=No Root
