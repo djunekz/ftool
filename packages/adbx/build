@@ -1,0 +1,3 @@
+Package=ADBX
+Description=A based tool for exploiting and managing Android devices via ADB
+Root=No Root
