@@ -1,0 +1,3 @@
+Package=PullPack
+Description=Simple tool for Search, Install, Remove, Check and Update packages
+Root=No Root
