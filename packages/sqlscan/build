@@ -1,0 +1,3 @@
+Package=SQLscan
+Description=Scanning sql vulnerability using dork with engine
+Root=No Root
