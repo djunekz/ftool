@@ -1,0 +1,3 @@
+Package=TermStyle
+Description=Simple tool for termux style change color, command prompt and cursor
+Root=No Root
